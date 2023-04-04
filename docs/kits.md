@@ -23,7 +23,7 @@ A user-local kit is a kit that is available to a particular user for all project
 
 The user-local list of kits is stored in the `cmake-tools-kits.json` file, which you can edit by invoking **Edit User-Local CMake Kits** from the command palette:
 
-![Example cmake_kits_json file](images/cmake_kits_json.png)
+![Example cmake_kits_json file](images/cmake_kits_json.png) 
 
 You can manually edit this file to define new global kits, however the contents of this file will be automatically updated by CMake Tools during a [scan for kits](#scan-for-kits).
 
